@@ -3,4 +3,4 @@ nexus_port: 8081
 TOMCAT_HOME: /usr/share/tomcat
 admin_password: tomcat123
 NEXUS_PASS: admin123
-BUILD_NO: 4.2.${BUILD_NUMBER}
+BUILD_NO: ${BUILD_NUMBER}
